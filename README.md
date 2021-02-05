@@ -1,4 +1,4 @@
-Hey ![waving](https://github.com/Codingreat/Codingreat/blob/main/wave.gif | width=3%), I'm Huda! 👩‍💻 
+Hey <img src="https://github.com/Codingreat/Codingreat/blob/main/wave.gif" max-width="3%" >, I'm Huda! 👩‍💻 
 ___________________________________________________________________________________________________________________________________________________________________________________
 Enjoying my journey as I'm teaching myself how to become a successful ***web developer!*** 
 
