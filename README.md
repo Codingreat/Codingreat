@@ -1,6 +1,6 @@
 Hey <img src="https://github.com/Codingreat/Codingreat/raw/main/wave.gif" width ="16px">, I'm Huda! 👩‍💻 
 ___________________________________________________________________________________________________________________________________________________________________________________
-Enjoying my journey as I'm teaching myself how to become a successful <b color:yellow> web developer</b>.
+Enjoying my journey as I'm teaching myself how to become a successful <span color= yellow> web developer</span>.
 
 Intresets:  Web development, Web design, AR, AI 
 
